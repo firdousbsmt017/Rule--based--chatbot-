@@ -18,7 +18,6 @@ A simple python chatbot using if- else logic for greetings and commands
 
 ## ▶️ How to Test
 1. Upar wale kisi bhi link pe click karo
-2. Programiz compiler khulega
-3. "Run" button dabao
-4. Terminal mein "hi" likh ke bot se baat karo
-2. Programiz ya Google Colab khulega
+2. "Run" button dabao
+3. Terminal mein "hi" likh ke bot se baat karo
+4. Programiz ya Google Colab khulega
