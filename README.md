@@ -8,8 +8,8 @@ A simple python chatbot using if- else logic for greetings and commands
 
 ### Version 2: Updated Chatbot  
 [Run Code Online](https://www.programiz.com/online-compiler/14QiyBhm3wNqm)
-
 ## 📝 About Project
+https://colab.research.google.com/drive/1FXe4TI0pHraFnr0s5AMcm8IdrBQzQJNp#scrollTo=3Zpmp2lB4wmH&line=32&uniqifier=1
 - **Type**: Rule-Based AI Chatbot
 - **Language**: Python
 - **Logic**: Uses if-else statements
