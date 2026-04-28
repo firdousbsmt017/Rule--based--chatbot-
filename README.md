@@ -21,3 +21,4 @@ A simple python chatbot using if- else logic for greetings and commands
 2. Programiz compiler khulega
 3. "Run" button dabao
 4. Terminal mein "hi" likh ke bot se baat karo
+2. Programiz ya Google Colab khulega
